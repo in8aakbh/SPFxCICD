@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getItems() returns correct result 1`] = `
+<div>
+  <div>
+    <div>
+      <span>
+        <u>
+          <b>
+            List Item(s)
+          </b>
+        </u>
+      </span>
+    </div>
+    <div>
+      <div>
+        <ul>
+          <li
+            key="Sn.No1"
+          >
+            Sn.No1
+          </li>
+          <li
+            key="Sn.No2"
+          >
+            Sn.No2
+          </li>
+          <li
+            key="Sn.No3"
+          >
+            Sn.No3
+          </li>
+          <li
+            key="Sn.No4"
+          >
+            Sn.No4
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
